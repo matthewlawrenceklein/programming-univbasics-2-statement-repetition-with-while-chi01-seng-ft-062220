@@ -6,6 +6,6 @@ while count >= 0 do
     count -= 1
 end
 
-if count == 0
+if count == +0
   puts "Happy New Year!"
 end
