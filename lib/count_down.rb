@@ -9,4 +9,3 @@ end
 if count == 0
   puts "Happy New Year!"
 end
-
